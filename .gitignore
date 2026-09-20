@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# React Native
+android/.gradle/
+android/app/build/
+ios/Pods/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
